@@ -1,0 +1,27 @@
+body{
+    background-color:white;
+}
+.side{padding:0px 10px 150px 30px;
+    float:left;
+    background-color: forestgreen;
+    color:white;
+}
+#profile{
+    border-radius: 50px;
+}
+#name{
+    font-weight: bold;
+    font-size:1.5em;
+}
+.link1{
+    color: white;
+}
+button{
+    padding:10px 10px 10px 10px;
+    background-color:burlywood;
+    color:white;
+}
+.about{
+  font-size: 2em;
+  font-weight: bold;
+}
